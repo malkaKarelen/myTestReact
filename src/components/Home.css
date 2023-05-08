@@ -1,0 +1,45 @@
+/* table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+  text-align: center;
+  justify-content: center;
+  margin-left: 20%;
+  margin-top: 5%;
+} */
+
+/* tr :hover {
+  background-color: rgb(198, 194, 194);
+}
+th :hover{
+  background-color: white;
+} */
+/* td,th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+} */
+#home{
+  text-align: center;
+  margin: 5%;
+  width: 50%;
+}
+#wrapTable {
+  display: flex;
+}
+
+/* 
+td {
+  background-color: aliceblue;
+
+} */
+
+.outlined-basic {
+  height: 10%;
+  width: 20%;
+  margipn-top: 10%;
+}
+
+#filters {
+  margin-top: 4%;
+}

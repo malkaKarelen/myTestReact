@@ -1,0 +1,12 @@
+#allPosts{
+    margin-left: 20%;
+    margin-top: 3%;
+    width: 50%;
+    padding: 5%;
+    background-color: rgb(241, 241, 241);
+    
+}
+body{
+    position: relative;
+    top:5%;
+}
